@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="test suite" verbose="2" parallel="methods" thread-count="2">
+<test name="test">
+<!-- <parameter name="names" value="arun"></parameter> -->
+<groups>
+<!-- <run>
+<include name="oneplus"></include>
+<include name="samsung"></include>
+</run>
+ -->
+</groups>
+<classes>
+<class name="testNG.ParallelTest"></class>
+</classes>
+</test>
+</suite> 
+<!-- <class  name="testNG.DependanciesManagement"></class>
+<class name="testNG.DriverACar"></class>
+<class name="testNG.SampleTestCase"></class>	
+<class name="testNG.SkipATestcases"></class>
+ -->

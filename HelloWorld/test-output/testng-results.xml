@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35" started-at="2020-02-26T00:55:27 IST" finished-at="2020-02-26T00:55:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35" started-at="2020-02-26T00:55:27 IST" finished-at="2020-02-26T00:55:27 IST">
+      <class name="testNG.DriverACar">
+        <test-method status="PASS" signature="starttheCar()[pri:0, instance:testNG.DriverACar@66480dd7]" name="starttheCar" duration-ms="6" started-at="2020-02-26T00:55:27 IST" finished-at="2020-02-26T00:55:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starttheCar -->
+        <test-method status="PASS" signature="putfirstGear()[pri:1, instance:testNG.DriverACar@66480dd7]" name="putfirstGear" duration-ms="1" started-at="2020-02-26T00:55:27 IST" finished-at="2020-02-26T00:55:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putfirstGear -->
+        <test-method status="PASS" signature="putthirdGear()[pri:2, instance:testNG.DriverACar@66480dd7]" name="putthirdGear" duration-ms="1" started-at="2020-02-26T00:55:27 IST" finished-at="2020-02-26T00:55:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putthirdGear -->
+        <test-method status="PASS" signature="putforthGear()[pri:3, instance:testNG.DriverACar@66480dd7]" name="putforthGear" duration-ms="1" started-at="2020-02-26T00:55:27 IST" finished-at="2020-02-26T00:55:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putforthGear -->
+        <test-method status="PASS" signature="putfifthGear()[pri:4, instance:testNG.DriverACar@66480dd7]" name="putfifthGear" duration-ms="0" started-at="2020-02-26T00:55:27 IST" finished-at="2020-02-26T00:55:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putfifthGear -->
+      </class> <!-- testNG.DriverACar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
